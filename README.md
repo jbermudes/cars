@@ -1,6 +1,14 @@
-# Application Purpose
+## Identifying Information
+1. Name: Jess Bermudes
+2. Student ID: 0767448
+3. Email: bermu103@mail.chapman.edu
+4. Class: CPSC-298-03
+5. Assignment: cars
+
+## Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
+
    
 ## The user will be presented with a menu of three options:
 
